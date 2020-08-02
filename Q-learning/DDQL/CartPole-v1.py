@@ -1,6 +1,7 @@
 # References:
 # https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
 # https://towardsdatascience.com/deep-q-learning-for-the-cartpole-44d761085c2f
+# https://github.com/seungeunrho/minimalRL
 
 import gym
 import math
